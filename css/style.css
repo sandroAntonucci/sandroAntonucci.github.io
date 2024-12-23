@@ -200,9 +200,9 @@ header.sticky{
 }
 
 .about-img img{
-    width: 100%;
-    height: 530px;
-    max-width: 530px;
+    width: 90%;
+    height: 477px;
+    max-width: 477px;
     border-radius: 50%;
     object-fit: cover;
     border: 7px solid var(--main-color);
